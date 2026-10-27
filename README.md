@@ -63,6 +63,6 @@ Bachelor of Computer Information Systems
 
 ## Connect
 
-- [Portfolio](https://nuwasirarham.github.io/)
+- [Portfolio](undergoing maintenance)
 - [LinkedIn](https://www.linkedin.com/in/nuwasir-arham-3035531aa/)
 - [Email](mailto:nuwasirarham@gmail.com)
