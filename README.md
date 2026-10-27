@@ -9,7 +9,7 @@ Based in Calgary, Alberta, Canada.
 ## About me
 
 - Pursuing a Master of Data Science at the University of Pittsburgh, with graduation expected in Summer 2028.
-- Graduated with a Bachelor of Computer Information Systems from Mount Royal University.
+- Graduated with a Bachelor of Computer Information Systems and a minor in Marketing from Mount Royal University.
 - Experienced in SQL-based data investigation, reporting, system testing, and change coordination in healthcare IT.
 - Interested in data analyst, IT analyst, and data science opportunities.
 
